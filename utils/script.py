@@ -7,7 +7,7 @@ I Will filter your channel posts automatically and send it in your group chat wh
     HELP = """To Use me In A Group
 
 - Add me in your group & channel with all permissions. 
-- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @CyniteOfficial.
+- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @vinaychauhanjaat.
 - After verification send /connect YourChannelID
 - Example : /connect -100xxxxxxxxxx
 - Done ✅. <b><I>Enjoy 💜❤</I></b> )
@@ -17,7 +17,7 @@ this will help you to remove a indexed channel from your group.
 
 Get connected channels list with - /connections"""
 
-    ABOUT = """Powered By @CyniteBackup
+    ABOUT = """Powered By @movies_wala
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://user?id=1883570185'>vinay chauhan</a>
