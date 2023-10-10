@@ -7,7 +7,7 @@
    <b>Channel-Post-Filter</b> 
  </h1> 
   
- ## TG Bot [@CyniteBackup](t.me/CyniteBackup) 
+ ## TG Bot [@Movieswalaofficial](t.me/CyniteBackup) 
   
  ## Telegram  
   
