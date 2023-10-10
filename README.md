@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=CHANNEL+POST+FILTER+BOT!;CREATED+BY+MOVIES+WALA!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=GRININJA+POST+FILTER+BOT!;CREATED+BY+MOVIES+WALA!)
 </p>
 
 </p>
