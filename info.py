@@ -1,7 +1,7 @@
-API_ID       = 21518327
-API_HASH     = "e72f588b3e4763f01eecfc3c4aa7e8ac"
-BOT_TOKEN    = "6017531522:AAGL1Pj2ksRr56clZLYyCt8mvd5MH60tis8"
-SESSION      = "BQFIV_cAdFF4lA0GKuUetxwBSqK3uwQp5xsHI-eDLPtuCrVFOtFfuxHJKxY0fqKGvdLaDAyr2jOIOHQ27D5Ln_dwOHNwrdUq_4KLZ5rnYl9ahL6ZOnYorUwGWWWNBUA3fV6YkP4Tgntd2WnODXnl6VHn7kbOSXNBgGyD2g6vR7mPkQgOjEio_6TwB2jnaEfe2bIN9T4onv7ZlnT3urdPV9e1s0ln3ghgdTEfniF-nu4wW3bGsD_lOks_tiv0ol95zqUWbqOt1x96kX4w70VXHV5T4JC7Q6JkHj5rqoOdWrbBJbng8vURWLpwpHJqfsrMcITDxRP2OCtPJOn6uQVCPMxTUyM5fgAAAAFWPrmkAA"
-DATABASE_URI = "mongodb+srv://vinayjaat698:<vinayjaat698>@cluster1.hbafc0k.mongodb.net/?retryWrites=true&w=majority"
+API_ID       = "28809976"
+API_HASH     = "a0d9c725c9ea8b8677c361b357dfdad2"
+BOT_TOKEN    = "8404885851:AAEOMuKqK9u5T7JZwQm-jbW_saiD0KoDfck"
+SESSION      = "BAG3mvgAKrvZ62JEJbQd-SuIh6BtYTM7OuQc3qch_qNvfbnhgqoCT-lQORldlCqubAl4JDhWs6FIluQMPVUaUD_Arp9p-cddxpMpU6411DcUMJoHlY9fatWbNj087JUGqWqrxv1IG-0z4BA6AseXFpZSJpuhVnf96_CDg-P3BrX6x2oZr6u8PXRWbo_7CbasK0RuHGg3l2UoaXqxrFqNzj88wRbqbe285uW0UszkiFSX1VMCQK-yYC1Kh5W0y5VqAd8qePCGmNvSZHs9H6_8kSKeGhfC9qh8SZ_ibXpah2ce_5h7fGl5htpA_l1m5esxuPt2nUqohkaA8gdGco7S_S30Mvj_bAAAAAF4HUkuAA"
+DATABASE_URI = "mongodb+srv://vinayjaat4:vinayjaat4@postfinder.dns5ykq.mongodb.net/?retryWrites=true&w=majority&appName=postfinder"
 LOG_CHANNEL  = -1001839965169
 ADMIN        = 5741918628
